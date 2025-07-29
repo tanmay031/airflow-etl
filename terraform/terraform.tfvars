@@ -1,0 +1,6 @@
+region          = "eu-north-1"
+profile         = "prahman"
+ami_id          = "ami-0914547665e6a707c"
+instance_type   = "t3.micro"
+key_name        = "terraform-bastion-key"
+s3_bucket_name  = "etl-datalake-portfolio"
